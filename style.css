@@ -1,0 +1,38 @@
+.container{
+    text-align: center;
+    margin-top:23px ;
+    font-family: 'Amarante';
+
+}
+.calculator{
+    display: inline-block;
+    background:black;
+    padding: 20px;
+    border-radius: 20px;
+    box-shadow: 10px 10px 5px grey;
+}
+table{
+    margin: auto;
+}
+input{
+    width: 400px;
+    padding: 10px 0;
+    font-size: 25px;
+    margin-bottom: 10px;
+    font-family: 'Amarante';
+    border: 2px solid crimson;
+}
+button{
+    font-size: 40px;
+    background: white;
+    color: crimson;
+    width: 102px;
+    height: 58px;
+    border-radius: 30px;
+    font-family: 'Amarante';
+}
+button:hover{
+    cursor: pointer;
+    background: crimson;
+    color: white;
+}
